@@ -13,4 +13,3 @@ Hello World!
 Hello World! master
 Hello World! fix-hot
 Hello World! master third
-Hello World! hot fix
